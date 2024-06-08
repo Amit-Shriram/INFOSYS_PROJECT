@@ -56,6 +56,11 @@ cd Infosys_Project
     python try4socket.py
     ```
 
+3. Get Wrapper API.
+    ```sh
+    http://127.0.0.1:5000/bikesinfo
+    ```
+
 ### Step 4: Set Up the Frontend
 
 1. Navigate to the `Frontend` folder, then to the `bike` folder, and install the required dependencies.

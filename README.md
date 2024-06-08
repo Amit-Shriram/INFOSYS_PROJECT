@@ -31,7 +31,7 @@ cd Infosys_Project
 2. Run the Strapi CMS.
 
     ```sh
-    npm run dev
+    npm run develop
     ```
 
 3. Create an admin user and log in to the Strapi CMS.
@@ -43,7 +43,7 @@ cd Infosys_Project
 
     ```sh
     cd ../Backend
-    pip install Flask Flask-Cors Flask-SocketIO requests imagine
+    pip install sqlite3 url-parser Flask Flask-Cors Flask-SocketIO requests imaginesdk
     ```
 
 2. Run the wrapper API.

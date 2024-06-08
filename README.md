@@ -35,6 +35,10 @@ cd Infosys_Project
     ```
 
 3. Create an admin user and log in to the Strapi CMS.
+4. Get the CMS's APIs 
+    ```sh
+    http://localhost:1337/api/bikeinfos?populate=*
+    ```
 
 
 ### Step 3: Set Up the Backend

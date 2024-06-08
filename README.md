@@ -15,6 +15,6 @@ This project consists of three main folders:
 First, clone the repository to your local machine.
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Amit-Shriram/Infosys_Project.git
 cd your-repo
 ```

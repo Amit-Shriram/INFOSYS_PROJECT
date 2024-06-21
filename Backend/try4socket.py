@@ -13,7 +13,7 @@ from imagine.models import Status
 app = Flask(__name__, static_folder='BikeImages')
 CORS(app)
 socketio = SocketIO(app, cors_allowed_origins="*")
-client = Imagine(token="vk-kTysowd4SgPF10Dqja78RtB4S5xgO3btYDSS6yMGOkWT6")
+client = Imagine(token="your_api_key")
 
 mainUrl = 'http://localhost:1337/api/'
 
